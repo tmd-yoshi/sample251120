@@ -21,3 +21,7 @@ The workflow:
 1. Triggers on `pull_request_target` events (opened, reopened)
 2. Checks the PR author's permission level using GitHub API
 3. Closes the PR and adds a comment if the author lacks write access
+
+### Notes
+
+(For workflow execution test)
